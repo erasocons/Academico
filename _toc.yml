@@ -1,0 +1,7 @@
+format: jb-book
+root: Q_es_analitica
+parts:
+  - caption: Módulo 1 - Introducción
+    chapters:
+      - file: content/PRACTICA01.ipynb # Archivo para tu primera presentación o lectura en Markdown
+        title: "📊 Conceptos Básicos de Analítica"
