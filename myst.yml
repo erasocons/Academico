@@ -19,5 +19,3 @@ site:
     - title: Abrir en Google Colab
       url: https://colab.research.google.com/github/erasocons/Academico
       icon: play
-
-base_url: /Academico/
