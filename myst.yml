@@ -4,19 +4,20 @@ project:
   description: Repositorio de laboratorios interactivos y conceptos clave de analítica con Python.
   author: Diego Eraso
   keywords: [data-analytics, python, jupyter, pandas]
-  # Usa la URL de tu repositorio o dominio final
   site_url: https://erasocons.github.io/Academico
+
 site:
   template: book-theme
   options:
     search: true
-    logo: ./content/fudea.jpg # Opcional: puedes borrar esta línea si no tienes logo
+    logo: ./content/fudea.jpg
     repository: https://github.com/erasocons/Academico
-    # Agrega botones interactivos para abrir tus cuadernos
-    actions:
-      - title: Ver Código en GitHub
-        url: https://github.com/erasocons/Academico
-        icon: github
-      - title: Abrir en Google Colab
-        url: https://colab.research.google.com/github/erasocons/Academico
-        icon: play
+  actions:
+    - title: Ver Código en GitHub
+      url: https://github.com/erasocons/Academico
+      icon: github
+    - title: Abrir en Google Colab
+      url: https://colab.research.google.com/github/erasocons/Academico
+      icon: play
+
+base_url: /Academico/
