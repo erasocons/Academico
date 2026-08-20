@@ -10,7 +10,7 @@ site:
   template: book-theme
   options:
     search: true
-    logo: ./content/fudea.jpg
+    logo: ./content/assets/logo.png
     repository: https://github.com/erasocons/Academico
   actions:
     - title: Ver Código en GitHub
