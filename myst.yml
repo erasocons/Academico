@@ -1,17 +1,19 @@
 version: 1
 project:
-  title: Fundamentos de Analítica de Datos
+  title: Analítica de Datos
   description: Repositorio de laboratorios interactivos y conceptos clave de analítica con Python.
   author: Diego Eraso
-  keywords: [data-analytics, python, jupyter, pandas]
+  keywords: [data-analytics, python, jupyter]
   site_url: https://erasocons.github.io/Academico
 
 site:
   template: book-theme
   options:
     search: true
-    logo: ./content/assets/logo.png
+    logo: ./content/assets/logo1.jpeg
     repository: https://github.com/erasocons/Academico
+  static_assets:
+    - ./content/assets/custom.css
   actions:
     - title: Ver Código en GitHub
       url: https://github.com/erasocons/Academico

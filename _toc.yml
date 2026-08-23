@@ -2,10 +2,10 @@ format: jb-book
 root: presentacion.md
 
 parts:
-  - caption: Módulo 1 - Introducción
+  - caption: Módulo 1 - FUNDAMENTOS
     chapters:
       - file: content/Q_es_analitica.md
         title: "📖 ¿Qué es Analítica?"
         sections:
-          - file: content/PRACTICA01.ipynb
+          - file: content/CLASS01.ipynb
             title: "📊 Conceptos Básicos de Analítica"

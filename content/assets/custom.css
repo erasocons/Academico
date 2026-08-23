@@ -1,0 +1,5 @@
+/* Aumentar tamaño del logo en la barra superior */
+.navbar-brand img {
+    max-height: 200px;   /* cambia este valor según lo que quieras */
+    width: auto;
+}
