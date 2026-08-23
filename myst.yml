@@ -12,8 +12,8 @@ site:
     search: true
     logo: ./content/assets/logo1.jpeg
     repository: https://github.com/erasocons/Academico
-  static_assets:
-    - ./content/assets/custom.css
+    static_assets:
+      - ./content/assets/custom.css
   actions:
     - title: Ver Código en GitHub
       url: https://github.com/erasocons/Academico

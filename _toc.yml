@@ -1,5 +1,5 @@
 format: jb-book
-root: presentacion.md
+root: presentacion
 
 parts:
   - caption: Módulo 1 - FUNDAMENTOS
