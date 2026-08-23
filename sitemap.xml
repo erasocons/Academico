@@ -5,6 +5,9 @@
     <loc>http://localhost:3000</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/practica01</loc>
+    <loc>http://localhost:3000/q-es-analitica</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/class01</loc>
   </url>
 </urlset>

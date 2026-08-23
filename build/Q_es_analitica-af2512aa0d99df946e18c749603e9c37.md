@@ -5,7 +5,7 @@ La **historia de la analítica de datos** comienza mucho antes de que existieran
 
 Es cierto que a lo largo del tiempo han cambiado las formas de **recolección**, **limpieza**, **preparación**, **exploración** y **visualización de datos**, pero el salto más grande ha sido en el **modelado**. Al inicio se usaban **reglas simples** y **sistemas expertos**; luego llegaron métodos **estadísticos** como la **clasificación bayesiana**, algoritmos de **vecinos cercanos** y **máquinas de vectores de soporte**. Más tarde aparecieron los **métodos de ensamble**, como los **bosques aleatorios**, que combinan múltiples **modelos** para mejorar la **precisión**. Finalmente, las **redes neuronales** revolucionaron el campo al permitir que los sistemas aprendieran **representaciones complejas** y **no lineales**. En el fondo, todos estos enfoques buscan lo mismo: **encontrar patrones** y **clasificar datos**, de modo que incluso **información nueva** y nunca vista pueda ser ubicada en **categorías** ya aprendidas.  
 
-![Etapas analitica de datos](./content/assets/historia.png)
+![Evolucion](../content/assets/historia.png)
 
 
 ## 📖 Introducción
@@ -69,6 +69,6 @@ El proceso típico incluye:
 4. **Modelado y análisis** → aplicar técnicas estadísticas o de machine learning.  
 5. **Comunicación de resultados** → presentar hallazgos de forma clara y útil.  
 
-![Etapas analitica de datos](./content/assets/flujoT.jpeg)
+![fluojo](../content/assets/flujoT.jpeg)
 
 ---
