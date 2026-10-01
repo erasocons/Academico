@@ -6,7 +6,8 @@ Bienvenido a este recorrido. Este sitio está diseñado como un **viaje paso a p
 
 ## 📘 Fundamentos
 - Descubriendo el Poder de la Analítica de Datos.
-- Conceptos básicos de analítica de datos.  
+- Terminos de uso recurrente y preguntas comunes en analítica de datos.
+- LOS DATOS.
 - Introducción a Python y Jupyter Notebooks.  
 - Buenas prácticas de trabajo con datos.  
 

@@ -9,3 +9,5 @@ parts:
         sections:
           - file: content/CLASS01.ipynb
             title: "📊 Conceptos Básicos de Analítica"
+      - file: content/Fundamentos de Python.ipynb
+        title: "🐍 Fundamentos de Python"

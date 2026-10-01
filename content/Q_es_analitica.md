@@ -23,7 +23,7 @@ En este capítulo aprenderás:
 ## 📚 Definiciones
 
 ### ¿Qué es Analítica de Datos?
-La analítica de datos es el proceso de examinar, limpiar y transformar datos para descubrir patrones, tendencias e información útil que ayude a tomar mejores decisiones.  
+La analítica de datos es el proceso de examinar, limpiar y transformar datos para descubrir patrones, tendencias e información útil que ayude a tomar mejores decisiones.
 
 ### Una explicación cotidiana
 Imagina que tienes un diario personal donde registras tu estado de ánimo cada día. Con el tiempo, puedes notar que los lunes estás más cansado y los viernes más feliz. Eso es analítica de datos: **buscar patrones en la información para entender mejor tu realidad**.
