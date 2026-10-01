@@ -10,4 +10,7 @@
   <url>
     <loc>http://localhost:3000/class01</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/fundamentos-de-python</loc>
+  </url>
 </urlset>
