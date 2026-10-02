@@ -1,0 +1,11 @@
+NumPy
+Objetivo: fundamentos de computación numérica.
+Notebooks
+01_numpy_introduction.ipynb
+02_numpy_arrays.ipynb
+03_array_indexing.ipynb
+04_array_operations.ipynb
+05_broadcasting.ipynb
+06_statistics_with_numpy.ipynb
+07_random_numbers.ipynb
+08_numpy_exercises.ipynb
