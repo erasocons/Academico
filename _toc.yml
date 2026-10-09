@@ -9,5 +9,21 @@ parts:
         sections:
           - file: content/CLASS01.ipynb
             title: "📊 Conceptos Básicos de Analítica"
+          - file: content/CLASS02.ipynb
+            title: "📈 Flujo de Trabajo del Analista de Datos"
       - file: content/Fundamentos de Python.ipynb
         title: "🐍 Fundamentos de Python"
+        sections:
+          - file: content/Numpy.ipynb
+            title: "🔢 NumPy"
+          - file: content/Pandas.ipynb
+            title: "🐼 Pandas"
+      - file: content/SQL.ipynb
+        title: "🗄️ SQL"
+        sections:
+          - file: content/SQL_basico.ipynb
+            title: "📘 SQL Básico"
+          - file: content/SQL_intermedio.ipynb
+            title: "📗 SQL Intermedio"
+          - file: content/SQL_avanzado.ipynb
+            title: "📕 SQL Avanzado"
