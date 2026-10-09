@@ -11,6 +11,27 @@
     <loc>http://localhost:3000/class01</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/class02</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/fundamentos-de-python</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/numpy</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pandas</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sql</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sql-basico</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sql-intermedio</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sql-avanzado</loc>
   </url>
 </urlset>
