@@ -27,3 +27,7 @@ parts:
             title: "📗 SQL Intermedio"
           - file: content/SQL_avanzado.ipynb
             title: "📕 SQL Avanzado"
+  - caption: "Módulo 2 - Herramientas"
+    chapters:
+      - file: content/pandas_y_numpy.ipynb
+        title: "🐼 Pandas y NumPy"
