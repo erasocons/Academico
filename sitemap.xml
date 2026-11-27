@@ -1,37 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3000/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://pre.render/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3000</loc>
+    <loc>http://pre.render</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/q-es-analitica</loc>
+    <loc>http://pre.render/q-es-analitica</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/class01</loc>
+    <loc>http://pre.render/class01</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/class02</loc>
+    <loc>http://pre.render/class02</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/fundamentos-de-python</loc>
+    <loc>http://pre.render/fundamentos-de-python</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/numpy</loc>
+    <loc>http://pre.render/numpy</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pandas</loc>
+    <loc>http://pre.render/pandas</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/sql</loc>
+    <loc>http://pre.render/sql</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/sql-basico</loc>
+    <loc>http://pre.render/sql-basico</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/sql-intermedio</loc>
+    <loc>http://pre.render/sql-intermedio</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/sql-avanzado</loc>
+    <loc>http://pre.render/sql-avanzado</loc>
+  </url>
+  <url>
+    <loc>http://pre.render/pandas-y-numpy</loc>
   </url>
 </urlset>
