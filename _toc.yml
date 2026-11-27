@@ -33,3 +33,5 @@ parts:
         title: "🐼 Pandas y NumPy"
       - file: content/Matplotlib_amd_Seaborn.ipynb
         title: "📊 Matplotlib y Seaborn"
+  - caption: "Módulo 3 - ESTADISTICA Y PROBABILIDAD"
+    chapters: []
