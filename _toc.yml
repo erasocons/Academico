@@ -34,4 +34,8 @@ parts:
       - file: content/Matplotlib_amd_Seaborn.ipynb
         title: "📊 Matplotlib y Seaborn"
   - caption: "Módulo 3 - ESTADISTICA Y PROBABILIDAD"
-    chapters: []
+    chapters:
+      - file: "content/Probabilidad_básica_y_distribuciones..ipynb"
+        title: "🎲 Probabilidad Básica y Distribuciones"
+      - file: "content/Inferencia_estadística_y_pruebas de hipótesis..ipynb"
+        title: "📐 Inferencia Estadística y Pruebas de Hipótesis"
