@@ -27,7 +27,9 @@ parts:
             title: "📗 SQL Intermedio"
           - file: content/SQL_avanzado.ipynb
             title: "📕 SQL Avanzado"
-  - caption: "Módulo 2 - Herramientas"
+  - caption: "Módulo 2 - HERRAMIENTAS"
     chapters:
       - file: content/pandas_y_numpy.ipynb
         title: "🐼 Pandas y NumPy"
+      - file: content/Matplotlib_amd_Seaborn.ipynb
+        title: "📊 Matplotlib y Seaborn"
