@@ -39,3 +39,11 @@ parts:
         title: "🎲 Probabilidad Básica y Distribuciones"
       - file: "content/Inferencia_estadística_y_pruebas de hipótesis..ipynb"
         title: "📐 Inferencia Estadística y Pruebas de Hipótesis"
+  - caption: "ANÁLISIS"
+    chapters:
+      - file: "content/Limpieza_preparación_datos.ipynb"
+        title: "🧹 Limpieza y Preparación de Datos"
+      - file: "content/Transformaciones _normalización.ipynb"
+        title: "🔄 Transformaciones y Normalización"
+      - file: "content/Exploración_patrones _relaciones..ipynb"
+        title: "🔍 Exploración de Patrones y Relaciones"
