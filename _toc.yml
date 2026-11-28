@@ -47,3 +47,5 @@ parts:
         title: "🔄 Transformaciones y Normalización"
       - file: "content/Exploración_patrones _relaciones..ipynb"
         title: "🔍 Exploración de Patrones y Relaciones"
+      - file: "content/dashboard_interactivos.ipynb"
+        title: "📊 Dashboards Interactivos"
